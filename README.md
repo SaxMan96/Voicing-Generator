@@ -23,9 +23,13 @@ Pierwsza wartość to typ akordu a liczby podane w nawiasach <> to stopnie z kt�
           key F
           defaultVoicings
           {
-              7 <3 7 9 13>
-              7alt <7 9 3 5>
-              -6 <3 5 6 9>
+                  7 <3 7 9 13>
+                  7alt <7 9 3 5>
+                  -6 <3 5 6 9>
+                  -7 <3 5 7 9>
+                  -7b5 <3 5 7 9>
+                  -^7 <3 5 7 9>
+                  ^7 <3 5 7 9>
           }
       }
 W sekcji **parts** umieszczone są części utworu oznaczone nazwami.  
