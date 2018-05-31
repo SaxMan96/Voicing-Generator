@@ -1,0 +1,45 @@
+settings
+{
+	beats 4
+	beatType quarter
+    key F
+	defaultVoicings
+	{
+		7 <3 7 9 13>
+		7alt <7 9 3 5>
+		-6 <3 5 6 9>
+		-7 <3 5 7 9>
+		-7b5 <3 5 7 9>
+		-^7 <3 5 7 9>
+		^7 <3 5 7 9>
+	}
+}
+parts{
+
+	PartA:
+		Eb7 <7 9 3 13>  | D-6 <3 5 6 9> | Eb7      | D-6  |
+		Eb7   | D-6  | E-7b5<5 7 9 11> A7alt| D-7 
+	PartB:
+		A-7b5 |  D7  | G-7 D7   |    G-7   |
+		G-7b5 | C7b5b9 |   F^7    | E-7b5 A7 
+	PartC:
+		E-7b5 |  %   | Eb7#11   |  %       | 
+		D-7   |  %   | G7#11    |  %       |
+		G-^7  | G-7  | Gb7#11   |  %       |
+		F^7   |  %   | E-7b5    | A7b9     
+	PartX:
+		D-7		|	F#-9	|	Eb^7 	| D-	|
+		C^7		|	Ab-7	| 	G-7 	| F#-7 	| 
+		F-7 	| 	Bb7b9b13 |	C-9		| Fb^7#11	|	
+		Gb7#11	|	A-7b5	
+	PartY:
+		C-7		|	F-7		|	D-7b5	|	G7b9b13		|
+		Eb-11	|	Ab13	|	Db^7	|	Gb13sus4	
+	PartD:
+		C^7		|	C#^7	|	D^7		|	Eb^7		|	E^7		|	
+		F^7		|	Gb^7		|	G^7		|	Ab^7		|	A^7		|	Bb^7		|	B^7		|	B#^7
+}
+form
+{
+	PartA,PartA,PartB,PartA,PartC
+}
