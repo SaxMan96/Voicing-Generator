@@ -57,3 +57,5 @@ W sekcji **form** ustalana jest forma utworu. Można tu skorzystać z wcześniej
       {
           PartA,PartA,PartB,PartA,PartC
       }
+Plik wyjściowy utworzony z omówionego wyżej pliku konfiguracyjnego wygląda tak:
+[MIDI file](files/Example.pdf)  
